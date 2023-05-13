@@ -5,9 +5,10 @@
     gap: 1rem;
 }
 button{
-    width: 10rem;
+    width:min(100% - 3%,100px);
+
     cursor: pointer;
 }
 input{
-    width: 30%;
+    width:min(100% - 3%,500px);
 }
