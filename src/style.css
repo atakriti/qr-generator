@@ -1,0 +1,12 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+button{
+    width: 10rem;
+    cursor: pointer;
+}
+input{
+    width: 30%;
+}
